@@ -10,6 +10,7 @@ public class Main {
 	
 	public static void DisplayMessages()
 	{
-		System.out.print ("Experiencias Construcción Software");
+		System.out.println ("Experiencias Construcción Software");
+		System.out.println ("ECS");
 	}
 }
